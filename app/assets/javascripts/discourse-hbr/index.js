@@ -7,5 +7,5 @@ module.exports = {
 
   treeForApp() {
     return rawHandlebarsCompiler(this.app.trees.app);
-  }
+  },
 };
